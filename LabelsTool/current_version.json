@@ -1,9 +1,8 @@
 {
   "latestVersion": "5.2.0",
-  "downloadUrl": "",
+  "downloadUrl": "https://raw.githubusercontent.com/zdravkopavlov/Updates/main/LabelsTool/LabelsToolSetup-5.1.0.exe",
   "releaseNotes": [
-    "Modern WebView editor pane",
-    "Integrated preferences and help pages",
-    "Sheet and printer profile cleanup"
+    "Test update prompt",
+    "Installer download link added"
   ]
 }
