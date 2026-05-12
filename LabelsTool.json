@@ -1,0 +1,9 @@
+{
+  "latestVersion": "5.1.0",
+  "downloadUrl": "",
+  "releaseNotes": [
+    "Modern WebView editor pane",
+    "Integrated preferences and help pages",
+    "Sheet and printer profile cleanup"
+  ]
+}
