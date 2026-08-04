@@ -1,0 +1,3 @@
+﻿
+# Release binaries live on GitHub Releases, not in git.
+*.mzp
