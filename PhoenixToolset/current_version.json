@@ -1,9 +1,8 @@
 {
-  "latestVersion": "1.0.1",
-  "downloadUrl": "https://github.com/zdravkopavlov/Phoenix_Toolset/releases/download/v1.0.1/PhoenixToolset_1.0.1.mzp",
+  "latestVersion": "1.0.2",
+  "downloadUrl": "https://github.com/zdravkopavlov/Phoenix_Toolset/releases/download/v1.0.2/PhoenixToolset_1.0.2.mzp",
   "releaseNotes": [
-    "In-app update notice: a link appears at the bottom of the panel when a newer version is published.",
-    "Installer shows the correct version, offers Update when a different version is installed, and no longer needs a Max restart.",
-    "Installer: removed the redundant Repair button, added Close."
+    "The update check is now served from the Phoenix Toolset repository itself.",
+    "No user-facing changes."
   ]
 }
