@@ -1,6 +1,16 @@
 {
-  "latestVersion": "0.1.0-alpha.11",
-  "downloadUrl": "",
-  "releaseNotes": [],
-  "releaseNotesBg": []
+  "latestVersion": "0.1.0-alpha.12",
+  "downloadUrl": "https://github.com/zdravkopavlov/ModelViewer-Releases/releases/download/v0.1.0-alpha.12/ModelViewer-Library-0.1.0-alpha.12-win-x64-offline-setup.exe",
+  "releaseNotes": [
+    "Standalone Windows Library installer with .NET and WebView2 included.",
+    "Browse online collections and save selected models for offline use.",
+    "Choose local library and cache folders in Settings.",
+    "Unsigned alpha for testing; Studio is installed separately."
+  ],
+  "releaseNotesBg": [
+    "Самостоятелен Windows инсталатор за Library с включени .NET и WebView2.",
+    "Разглеждане на онлайн колекции и запазване на избрани модели за работа офлайн.",
+    "Избор на папки за локалната библиотека и кеша от Настройки.",
+    "Неподписана алфа версия за тестове; Studio се инсталира отделно."
+  ]
 }
