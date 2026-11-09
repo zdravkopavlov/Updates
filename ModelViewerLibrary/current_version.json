@@ -1,14 +1,16 @@
 {
-  "latestVersion": "0.1.0-alpha.15",
-  "downloadUrl": "https://github.com/zdravkopavlov/ModelViewer-Releases/releases/download/v0.1.0-alpha.15/ModelViewer-Library-0.1.0-alpha.15-win-x64-offline-setup.exe",
+  "latestVersion": "0.1.0-alpha.16",
+  "downloadUrl": "https://github.com/zdravkopavlov/ModelViewer-Releases/releases/download/v0.1.0-alpha.16/ModelViewer-Library-0.1.0-alpha.16-win-x64-offline-setup.exe",
   "releaseNotes": [
-    "Dedicated ModelViewer Library executable and offline Windows installer.",
-    "Upgrade keeps the installed Library folder and updates its shortcuts.",
-    "Keep existing offline models, notes, and settings. This is an unsigned alpha."
+    "Sign in through your browser while Library remains usable.",
+    "Cancel sign-in from Library; unfinished attempts expire after three minutes.",
+    "Consistent browser sign-in screens and confirmation only after connection succeeds.",
+    "Offline Windows installer with bundled .NET and WebView2. Existing models, notes and settings are preserved."
   ],
   "releaseNotesBg": [
-    "Отделен изпълним файл за ModelViewer Library и офлайн инсталатор за Windows.",
-    "Обновяването запазва папката на Library и обновява преките пътища.",
-    "Офлайн моделите, бележките и настройките се запазват. Това е неподписана алфа версия."
+    "Вход през браузъра, без блокиране на Library.",
+    "Отказ от входа и автоматично прекратяване след три минути.",
+    "Еднакъв изглед на екраните за вход; успех след установена връзка.",
+    "Офлайн Windows инсталатор с .NET и WebView2. Моделите, бележките и настройките се запазват."
   ]
 }
